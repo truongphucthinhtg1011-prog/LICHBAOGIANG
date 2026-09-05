@@ -1,0 +1,6 @@
+{
+  "name": "Lịch Báo Giảng Tự Động",
+  "description": "Ứng dụng lập lịch báo giảng tự động từ Thứ 2 đến Thứ 6 dựa trên Phân phối chương trình và Thời khóa biểu với tính năng tự động cập nhật ngày theo từng tuần.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
